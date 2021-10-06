@@ -1,1 +1,2 @@
 # espejo
+# addingo more detail
